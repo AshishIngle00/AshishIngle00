@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AshishIngle00
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning BCA
+- 👀 Fullstack .NET Developer
+- 🌱 I’m currently learning DSA
 - 💞️ 
-- 📫 How to reach me Email me at ingleashish567@gmail.com
+- 📫 Reach me Email me at ingleashish567@gmail.com
 
 <!---
 AshishIngle00/AshishIngle00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
